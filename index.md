@@ -4,7 +4,8 @@ title: Patrick's thoughts on the Rayn neo-bank
 
 This short page aim at describing what services the [Rayn](neo-bank) provides.
 
-[toc]
+* Table of content
+{:toc}
 
 # History
 
