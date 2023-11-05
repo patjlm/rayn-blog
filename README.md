@@ -1,2 +1,2 @@
 # rayn-blog
-A website describeing the services from Rayn
+A website describing the services from Rayn
