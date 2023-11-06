@@ -41,11 +41,11 @@ The cards' limits depend on the membership. You can find the cards limit as well
 
 As of today, November 6th, 2023, here are the main cards info:
 
-| . |FREEDOM|WORLD|ELITE|
+|      |FREEDOM|WORLD  |ELITE  |
 | :--- | :---: | :---: | :---: |
 |Biodegradable PVC VISA Card, 9.90€ Delivery fee per card|✔️|✔️|✔️|
-|METAL VISA Card, 9.90€ Delivery fee per card||✔️|✔️|
-|GOLD & DIAMOND VISA Card, Free delivery|||✔️|
+|METAL VISA Card, 9.90€ Delivery fee per card| |✔️|✔️|
+|GOLD & DIAMOND VISA Card, Free delivery| | |✔️|
 |Pay with crypto, Max limit for one payment|100€|2000€|5000€|
 |Pay with crypto, Wallet amount percentage limit|80%|80%|80%|
 |Pay with crypto, Min fee per transaction|1€|1€|1€|
@@ -55,6 +55,16 @@ As of today, November 6th, 2023, here are the main cards info:
 |ATM, Free withdrawal limit|5|5|Unlimited|
 |ATM, Above the free limit|2.5%|2.5%|2.5%|
 |SEPA Transfer|0.5€|Free|Free|
+
+## Support
+We can actually call the Rayn support! This is becoming pretty rare nowadays. And they are pretty reactive!
+There are numbers in Ireland, Italy and France:
+* France: +33 4 1333 3444
+* Ireland: +353 1 574 7382
+* Italy: +39 06 4525 6900
+
+<!-- TODO: check email change to rayn.money? -->
+Alternatively, you can use their email address: support@akt.io
 
 # Vaults
 ## Flex vault
