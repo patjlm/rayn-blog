@@ -7,7 +7,8 @@ This short page aims at describing what services the [Rayn](https://rayn.money) 
 Feel free to use [my referral link](https://rayn.money/app-referral/?referral=043144a6a9a9310624951513b931b6d73e9a49353d1969669507bee7ccbe4727) to install and register on Rayn.
 
 Table of content
-* {:toc}
+* toc
+{:toc}
 
 # History
 Rayn has been founded a few years ago by a group of experts in finance, automated tradings and compliance. Especially the co-founders
