@@ -27,10 +27,32 @@ Rayn is also getting prepared for the upcoming european MICA license as well as 
 # Neo-bank services
 Rayn offers pretty standard neo-bank services:
 * Very easy setup, everything is done via theire app you can download. You'll get a direct app store (IOS / Android) once you click on my [referral link](https://rayn.money/app-referral/?referral=043144a6a9a9310624951513b931b6d73e9a49353d1969669507bee7ccbe4727) 😉.
-* Once installed and registered, you immediately have access to a personal IBAN.
+* You will be asked to fill a standard [KYC](https://en.wikipedia.org/wiki/Know_your_customer) (Know Your Customer), for compliance reasons. This is a good thing.
+* Once installed and registered, you immediately have access to a personal IBAN. This allows you to transfer money to and from your new account.
 * You can then select your membership, register as Ambassador, and start earning.
 
 ## Visa card
+Rayn proposes different cards depending on your membership. They're all standard Visa **debit** card.
+
+The cards allow you to pay with your EURO FIAT, but also with your crypto assets. This is done by enabling crypto payment in the app before paying. The setting is active for 15min. The merchant only sees Euros, so it works everywhere. What happens in the background is that a short-lived credit line is opened and gets reimbursed in Crypto directly. The side effect is that there is no conversion from Crypto to FIAT. In France, that should mean these transaction are not subject to the flat tax (30% of the benefits on cryptos)
+
+The cards' limits depend on the membership. You can find the cards limit as well as other bank services info in the [membership page](https://rayn.money/memberships/).
+
+As of today, November 6th, 2023, here are the main cards info:
+||FREEDOM|WORLD|ELITE|
+|--|--|--|--|
+|Biodegradable PVC VISA Card, 9.90€ Delivery fee per card|✔️|✔️|✔️|
+|METAL VISA Card, 9.90€ Delivery fee per card||✔️|✔️|
+|GOLD & DIAMOND VISA Card, Free delivery|||✔️|
+|Pay with crypto, Max limit for one payment|100€|2000€|5000€|
+|Pay with crypto, Wallet amount percentage limit|80%|80%|80%|
+|Pay with crypto, Min fee per transaction|1€|1€|1€|
+|EUR Payment|Free|Free|Free|
+|Non-EUR Payment|2.5%|1.8%|Free|
+|ATM, Free withdrawal amount|200€|600€|2000€|
+|ATM, Free withdrawal limit|5|5|Unlimited|
+|ATM, Above the free limit|2.5%|2.5%|2.5%|
+|SEPA Transfer|0.5€|Free|Free|
 
 # Vaults
 ## Flex vault
