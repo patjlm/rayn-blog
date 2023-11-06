@@ -41,7 +41,7 @@ The cards' limits depend on the membership. You can find the cards limit as well
 
 As of today, November 6th, 2023, here are the main cards info:
 ||FREEDOM|WORLD|ELITE|
-|--|--|--|--|
+| :--- | :---: | :---: | :---: |
 |Biodegradable PVC VISA Card, 9.90€ Delivery fee per card|✔️|✔️|✔️|
 |METAL VISA Card, 9.90€ Delivery fee per card||✔️|✔️|
 |GOLD & DIAMOND VISA Card, Free delivery|||✔️|
