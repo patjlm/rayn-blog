@@ -6,7 +6,6 @@ This short page aims at describing what services the [Rayn](https://rayn.money) 
 
 Feel free to use [my referral link](https://rayn.money/app-referral/?referral=043144a6a9a9310624951513b931b6d73e9a49353d1969669507bee7ccbe4727) to install and register on Rayn.
 
-Table of content
 * toc
 {:toc}
 
@@ -64,14 +63,52 @@ There are numbers in Ireland, Italy and France:
 * Italy: +39 06 4525 6900
 
 <!-- TODO: check email change to rayn.money? -->
-Alternatively, you can use their email address: support@akt.io
+Alternatively, you can use their email address: [support@akt.io](mailto:support@akt.io)
 
 # Vaults
+Vault are basically saving accounts. They aim to securely earn interests. Rayn offers various types of vaults, let's describe them.
+
 ## Flex vault
+[Flex vaults](https://rayn.money/flex-vault/) allow to earn interest daily on unblocked money. Much like a Livret A in France, you deposit some money on the vault and you get interests out of this money every single day after that. The big differences with the french Livret A are:
+* no deposit limit
+* not tax-free: you earn PAR (a crypto stable coin equal to the Euro). If you convert these PAR into Euro, you have to declare the benefit and have a flat tax on it (in France)
+* interests are paid daily!
+* paid interest count for the next day interests: compound interest!
+
+Deposits can currently be made in Euro, or in USDT (a crypto stable coin aiming to be equal to USD).
+
+Note that it may take 24 hours for your interests to take effect. So if you deposit a bit late in the day (say, after 4pm), it's possible you'll need to way 2 days to start seeing your first interests drop in.
+
+The interest rate has been very stable for at least one year now. We currently get
+* 5% APY
+* ~6.5% APY for Ambassador (1000 AKTIO coins staked)
+
 ## Mining vault
+Begining of 2023, Rayn launched the [Mining vault](https://rayn.money/mining-vault/). They initially had a pool of 10M USD (or Euros?) allocated to this and added twice 2M since then
+
+In a nutshell
+* they buy machines - they got very good prices during the bear market (most cryptos going down..)
+* they install them in multiple locations (SRE!)
+* they buy the electricity upfront at a good price. They also mentioned they use as much grren electricity as possible (solar, geothermal, ..)
+* These machine are used to [mine BitCoins](https://en.wikipedia.org/wiki/Bitcoin_network#Mining) and get rewards, in BitCoins
+* These rewards are instantly converted into PAR (Euro stable coin) and distributed to users. Rayn keeps a portion of it for themselves.
+
+Note:
+* The pool is limited. At one point, it will not be possible to deposit in mining anymore, or not at the same conditions (more expensive  machines, electricity, mining costs, rewards, ..)
+* The interest rate is variable. During an AMA, they mentioned that if BTC (BitCoin) drops below 10K (which would be very very surprising), we'd still get about 10% reward for Ambassadors. The interest can also raise to more than we have today with the price of BTC raising up
+
+Currently, Mining vaults provide 12% to non-ambassadors, and almost 17% to ambassadors, and it's been very very stable since the begining.
+
 ## Affiliates vault
+Rayn has a great referral program:
+* Both referree and referrer get some AKTIO (random between 10 and 200) during a succesful referral (at least 50 euros deposited on something)
+* an ambassador referrer gets 10% of the fees genererated by his/her affiliates 🎉. These get added to a dedicatd Flex vault automatically (so you earn interests on top!)
 
 # Crypto trading
 ## The AKTIO token
++ staking
 
 # Automated portfolio: The Bot
+
+# Memberships
+## Ambassador
