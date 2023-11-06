@@ -40,7 +40,7 @@ The cards allow you to pay with your EURO FIAT, but also with your crypto assets
 The cards' limits depend on the membership. You can find the cards limit as well as other bank services info in the [membership page](https://rayn.money/memberships/).
 
 As of today, November 6th, 2023, here are the main cards info:
-||FREEDOM|WORLD|ELITE|
+| . |FREEDOM|WORLD|ELITE|
 | :--- | :---: | :---: | :---: |
 |Biodegradable PVC VISA Card, 9.90€ Delivery fee per card|✔️|✔️|✔️|
 |METAL VISA Card, 9.90€ Delivery fee per card||✔️|✔️|
