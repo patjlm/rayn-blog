@@ -102,13 +102,32 @@ Currently, Mining vaults provide 12% to non-ambassadors, and almost 17% to ambas
 ## Affiliates vault
 Rayn has a great referral program:
 * Both referree and referrer get some AKTIO (random between 10 and 200) during a succesful referral (at least 50 euros deposited on something)
-* an ambassador referrer gets 10% of the fees genererated by his/her affiliates 🎉. These get added to a dedicatd Flex vault automatically (so you earn interests on top!)
+* an ambassador referrer gets 5% of the fees genererated by his/her affiliates (10% with the Ambassador status 🎉). These get added to a dedicated Flex vault automatically (so you earn interests on top!)
 
 # Crypto trading
 ## The AKTIO token
-+ staking
+staking:
++ Stake Rayn's native token `AKTIO` for 12 months to receive 5% APY for Freedom members, 15% APY for World members or 20% APY for Elite members
++ Stake at least 1000 `AKTIO` to become Ambassador.
 
 # Automated portfolio: The Bot
++risk management
++not intra day - medium-long term
 
 # Memberships
+* Freedom
+* World
+* Elite
 ## Ambassador
+How to get the [Ambassador](https://rayn.money/ambassador/) status:
+* 1000 AKTIO staked
+
+Benefits (as of November 7th, 2023):
+
+| | Non-Ambassador | Ambassador |
+| :--- | :---: | :---: |
+| Cloud Mining Vault Interest rate (APR) | 12% | 17% |
+| Flex Vault Interest rate (APY) | 5% | 6.5% |
+| Affiliate revenues | 5% | 10% |
+| Crypto trading fees | | -30% |
+| World membership | 150€ | 105€ |
