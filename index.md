@@ -1,5 +1,5 @@
 ---
-title: Patrick's summary of neo-bank: Rayn (ex akt.io)
+title: Patrick's summary of neo-bank named Rayn (ex akt.io)
 ---
 
 This short page aims at describing what services the [Rayn](https://rayn.money) (previously named akt.io) neo-bank provides.
