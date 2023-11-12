@@ -162,9 +162,9 @@ Rayn has 3 types of membership, described on the [dedicated page](https://rayn.m
 * Elite
 
 ## Ambassador
-On top of that, you may get additional benefit by staking 1000 AKTIO and become an [Ambassador](https://rayn.money/ambassador/).
+On top of that, you may get additional benefit by [staking](#AKTIO-staking) 1000 AKTIO and become an [Ambassador](https://rayn.money/ambassador/).
 
-Benefits (as of November 7th, 2023):
+Benefits (as of November 12th, 2023):
 
 | | Non-Ambassador | Ambassador |
 | :--- | :---: | :---: |
