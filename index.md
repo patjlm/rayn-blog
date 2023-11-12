@@ -74,6 +74,7 @@ Vault are basically saving accounts. They aim to securely earn interests. Rayn o
 * not tax-free: you earn PAR (a crypto stable coin equal to the Euro). If you convert these PAR into Euro, you have to declare the benefit and have a flat tax on it (in France)
 * interests are paid daily!
 * paid interest count for the next day interests: compound interest!
+* you may open as many vaults as you wish (one for cars, one for holidays, one for day to day, ..)
 
 Deposits can currently be made in Euro, or in USDT (a crypto stable coin aiming to be equal to USD).
 
@@ -122,38 +123,46 @@ It is interesting to not that the max quantity of AKTIO is limited to 100M by th
 
 Everything you want to know about the AKTIO coin should be available in the [whitepaper](https://www.rayn.money/static/15f3d1d09770febde0af55c21ccc3ad5/aktio_coin_whitepaper.pdf)
 
+### AKTIO staking
 Rayn has a staking program for AKTIO: we can lock some AKTIO for 1 year and get some interest after that period, in AKTIO, along with your locked amount. There is no limit to staking. The interest yield depends on your membership:
+
 | Freedom | World | Elite |
 | :---:   | :---: | :---: |
 | 5%      | 15%   | 20%   |
 
-Staking 1000 AKTIO allows you to reach the ambassador status, which mainly lowers fees or increases revenues. See the [ambassador page](https://rayn.money/ambassador/) for details. As of November, 12th 2023:
-
-|                            | non ambassador | ambassador |
-| :---                               | :---: | :---: |
-| Blockchain Vault Interest rate (APR) | 12%  | 17%  |
-| Flex Vault Interest rate (APY)       | 5%   | 6.5% |
-| Affiliate revenues                   | 5%   | 10%  |
-| Crypto trading fees                  |      | -30% |
-| World membership                     | 150€ | 105€ |
-
-If you want to be World and Ambassador
-- first stake your first 1000 AKTIO. Those will get 5% interest 
-- then get the cheaper World membership
-- then stake more AKTIO if you want: you'll get the World interests at 15%
+Staking 1000 AKTIO allows you to reach the ambassador status, which mainly lowers fees or increases revenues. See the [ambassador page](https://rayn.money/ambassador/) for details.
 
 # Automated portfolio: The Bot
-+risk management
-+not intra day - medium-long term
+The initial idea of Rayn actually started around a bot that would run automatic trades for the user, based on AI and trend analysis. Meet the "Bot", currently called [Automated Portfolio](https://rayn.money/investment-strategies/) in the application.
+
+The bot is based on 3 "layers":
+- a selection of crypto assets from Rayn experts - and those are very good! This selectio is reviewed and amended periodically, depending on the overall market evolution.
+- an automated allocation of funds on those assets. That's where the whole magic happens.
+- a risk profile management. Depending on your risk appetite - 5 risk levels from conservative to aggressive - the allocation will try to preserve from 90% to 70% of your capital. This is currently done by buying USDT. They are thinking of using a Flex vault in order to still earn some interests on those.
+
+Currently, Rayn requires a minimum of 100 euros to invest in the bot.
+
+Things to note on the bot:
+- there is no performance garantee, and you may lose money for some time
+- It is quite aggressive by default, which means it can lose quite a bit (eg 45%).
+- It does not do intra-day alocations, but rather aims at mid/long term performance.
+- It works best on bull runs (positive market), and basically limits loss on bear market.
+
+My personal experience with the bot, as of November, 12th 2023:
+- I invested from day one, when there was only a selection of crypto from the team. Since that was not a dynamic alocation and there was no risk profile selection at the time, I actually lost quite a bit.
+- Once the automated allocation was put in place, I started losing much less. But the market was bad overall, so no nice perfomance yet.
+- The risk management came third and helped as well.
+- When the big bull run (positive market) started, about 7 months after my first investment in the bot, I was at around -30%. I actually disabled the risk profile, to get the most aggressive behavior of the bot. This got me back to my initial investment in 2 weeks.
+- Since changing risk profile, or even enabling/disabling it, is super easy, I will not hesitate to switch it in the future, depending on market conditions. As an alternative, I am also thinking of taking a portion of the funds out of the bot in Bear conditions, and put them manually on a vault in the meanwhile.
 
 # Memberships
+Rayn has 3 types of membership, described on the [dedicated page](https://rayn.money/memberships/). They are
 * Freedom
 * World
 * Elite
 
 ## Ambassador
-How to get the [Ambassador](https://rayn.money/ambassador/) status:
-* 1000 AKTIO staked
+On top of that, you may get additional benefit by staking 1000 AKTIO and become an [Ambassador](https://rayn.money/ambassador/).
 
 Benefits (as of November 7th, 2023):
 
@@ -164,3 +173,8 @@ Benefits (as of November 7th, 2023):
 | Affiliate revenues | 5% | 10% |
 | Crypto trading fees | | -30% |
 | World membership | 150€ | 105€ |
+
+If you want to be World and Ambassador
+- first stake your first 1000 AKTIO. Those will get 5% interest 
+- then get the cheaper World membership
+- then stake more AKTIO if you want: you'll get the World interests at 15%
