@@ -97,18 +97,50 @@ Note:
 * The pool is limited. At one point, it will not be possible to deposit in mining anymore, or not at the same conditions (more expensive  machines, electricity, mining costs, rewards, ..)
 * The interest rate is variable. During an AMA, they mentioned that if BTC (BitCoin) drops below 10K (which would be very very surprising), we'd still get about 10% reward for Ambassadors. The interest can also raise to more than we have today with the price of BTC raising up
 
-Currently, Mining vaults provide 12% to non-ambassadors, and almost 17% to ambassadors, and it's been very very stable since the begining.
+Currently, Mining vaults have been providing stable 12% to non-ambassadors, and almost 17% to ambassadors. Very recently (November, 11th 2023), we started getting 17.79% with the raise of BTC 🎉.
 
 ## Affiliates vault
 Rayn has a great referral program:
 * Both referree and referrer get some AKTIO (random between 10 and 200) during a succesful referral (at least 50 euros deposited on something)
-* an ambassador referrer gets 5% of the fees genererated by his/her affiliates (10% with the Ambassador status 🎉). These get added to a dedicated Flex vault automatically (so you earn interests on top!)
+* A referrer gets 5% of the fees genererated by his/her affiliates (10% with the Ambassador status 🎉). These get added to a dedicated Flex vault automatically (so you earn interests on top!)
 
 # Crypto trading
+Rayn offers some basic trading capabilities (buy/sell) on 100+ crypto assets. They don't aim at being better than other big players in that area. Further enhancement ae in the pipe (amongst many other priorities), like limit orders, DCA.
+
+The trading fees depend on your status: Freedom/World/Elite. Ambassadors get a discount on top. The fees are clearly documented on the [membership page](https://rayn.money/memberships/). As of November 11th, 2023 here are the numbers:
+
+|         | Standard trading fees | Ambassador trading fees |
+| :---    | :---:                 | :---:                   |
+| Freedom | 0.95%                 | 0.665%                  |
+| World   | 0.75%                 | 0.525%                  |
+| Elite   | 0.2%                  | 0.2%                    |
+
 ## The AKTIO token
-staking:
-+ Stake Rayn's native token `AKTIO` for 12 months to receive 5% APY for Freedom members, 15% APY for World members or 20% APY for Elite members
-+ Stake at least 1000 `AKTIO` to become Ambassador.
+Rayn also has its own crypo token: AKTIO. This token is meant to have some usability in the app. Today, it's mainly about the ambassador sttaus and reduced costs/fees.
+
+It is interesting to not that the max quantity of AKTIO is limited to 100M by the [tokenomics](https://rayn.money/token-economics/), which is relatively low. The idea is that a high number of Rayn, incentivized to buy AKTIO (as a utility token), would start quickly making the token rare, which should increase the price. So somehow, the AKTIO price is linked to Rayn's success to attract customers.
+
+Everything you want to know about the AKTIO coin should be available in the [whitepaper](https://www.rayn.money/static/15f3d1d09770febde0af55c21ccc3ad5/aktio_coin_whitepaper.pdf)
+
+Rayn has a staking program for AKTIO: we can lock some AKTIO for 1 year and get some interest after that period, in AKTIO, along with your locked amount. There is no limit to staking. The interest yield depends on your membership:
+| Freedom | World | Elite |
+| :---:   | :---: | :---: |
+| 5%      | 15%   | 20%   |
+
+Staking 1000 AKTIO allows you to reach the ambassador status, which mainly lowers fees or increases revenues. See the [ambassador page](https://rayn.money/ambassador/) for details. As of November, 12th 2023:
+
+|                            | non ambassador | ambassador |
+| :---                               | :---: | :---: |
+| Blockchain Vault Interest rate (APR) | 12%  | 17%  |
+| Flex Vault Interest rate (APY)       | 5%   | 6.5% |
+| Affiliate revenues                   | 5%   | 10%  |
+| Crypto trading fees                  |      | -30% |
+| World membership                     | 150€ | 105€ |
+
+If you want to be World and Ambassador
+- first stake your first 1000 AKTIO. Those will get 5% interest 
+- then get the cheaper World membership
+- then stake more AKTIO if you want: you'll get the World interests at 15%
 
 # Automated portfolio: The Bot
 +risk management
@@ -118,6 +150,7 @@ staking:
 * Freedom
 * World
 * Elite
+
 ## Ambassador
 How to get the [Ambassador](https://rayn.money/ambassador/) status:
 * 1000 AKTIO staked
