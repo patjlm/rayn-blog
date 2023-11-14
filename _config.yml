@@ -1,6 +1,7 @@
 # https://pages.github.com/themes/
 # theme: minima
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight
+theme: architect
 
 title: A description of Rayn
 author: Patrick Martin
