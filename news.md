@@ -2,10 +2,12 @@
 
 Here are some quick news about Rayn.
 
+* toc
+{:toc}
+
 ## November 2023
 
 ### Bittrex global closure
-
 Rayn has been relying on Bittrex for a while as its main exchange backend. After Bittrex US closure, [Bittrex global](https://bittrexglobal.com/) will stop operating begining of December.
 
 Rayn will move to [Bitmart](https://www.bitmart.com), awaiting to use a more generic partner: [Scrypt](https://scrypt.swiss/).
@@ -22,3 +24,5 @@ We can now see some Rayn ads on french TV: C8, CNews, BFM. This is very rare for
 
 Here is a [Twitter/X link with the ad on C8](https://twitter.com/Rayn_app/status/1727371373251809430)
 
+### Waltio video on tax reductions (FR) 
+[Réduire ses impôts en fin d'année ? 💰🧐 4 Astuces Crypto et Hors Crypto](https://landing.webikeo.fr/webinar/replay/wPZm3t8c6vkhHA89UckW)
