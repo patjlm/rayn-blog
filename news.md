@@ -2,6 +2,8 @@
 
 Here are some quick news about Rayn.
 
+Feel free to use my [referral link](https://rayn.money/app-referral/?referral=043144a6a9a9310624951513b931b6d73e9a49353d1969669507bee7ccbe4727) to install and register on Rayn.
+
 * toc
 {:toc}
 
