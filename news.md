@@ -10,7 +10,7 @@ Feel free to use my [referral link](https://rayn.money/app-referral/?referral=04
 ## December 2023
 
 ### Deposit with a credit card
-🎉 It's now possible to deposit Euros with a credit card.
+🎉 It's now possible to deposit Euros with a credit card. This is an other way to get funds instantaneoulsy onto your Rayn account.
 
 This comes on top of existing ways to deposit funds:
 * SEPA transfer onto your personal Rayn IBAN
