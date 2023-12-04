@@ -7,7 +7,7 @@ Feel free to use my [referral link](https://rayn.money/app-referral/?referral=04
 * toc
 {:toc}
 
-## November 2023
+## December 2023
 
 ### Deposit with a credit card
 🎉 It's now possible to deposit Euros with a credit card.
