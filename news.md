@@ -9,6 +9,15 @@ Feel free to use my [referral link](https://rayn.money/app-referral/?referral=04
 
 ## November 2023
 
+### Deposit with a credit card
+🎉 It's now possible to deposit Euros with a credit card.
+
+This comes on top of existing ways to depoist funds:
+* SEPA transfer onto your personal Rayn IBAN
+* deposit of USDT cryptos
+
+## November 2023
+
 ### Bittrex global closure
 Rayn has been relying on Bittrex for a while as its main exchange backend. After Bittrex US closure, [Bittrex global](https://bittrexglobal.com/) will stop operating begining of December.
 
