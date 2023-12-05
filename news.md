@@ -16,6 +16,8 @@ This comes on top of existing ways to deposit funds:
 * SEPA transfer onto your personal Rayn IBAN
 * deposit of USDT cryptos
 
+In the same app update, we can now use custom pictures for Vaults.
+
 ## November 2023
 
 ### Bittrex global closure
