@@ -84,7 +84,7 @@ Note that it may take 24 hours for your interests to take effect. So if you depo
 
 The interest rate has been very stable for at least one year now. We currently get
 * 5% APY
-* ~6.5% APY for Ambassador (1000 AKTIO coins staked)
+* 6.5% APY for Ambassador (1000 AKTIO coins staked)
 
 ## Mining vault
 Begining of 2023, Rayn launched the [Mining vault](https://rayn.money/mining-vault/). They initially had a pool of 10M USD (or Euros?) allocated to this and added twice 2M since then
