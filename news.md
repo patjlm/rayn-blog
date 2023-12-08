@@ -9,6 +9,9 @@ Feel free to use my [referral link](https://rayn.money/app-referral/?referral=04
 
 ## December 2023
 
+### Mining vault at 18.3%
+🎉 Today on December, 8th, the mining vault interest rate bumped from 17.8% to 18.3%
+
 ### Deposit with a credit card
 🎉 It's now possible to deposit Euros with a credit card. This is an other way to get funds instantaneoulsy onto your Rayn account.
 
