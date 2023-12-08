@@ -6,6 +6,8 @@ This short page aims at describing what services the [Rayn](https://rayn.money) 
 
 Feel free to use [my referral link](https://rayn.money/app-referral/?referral=043144a6a9a9310624951513b931b6d73e9a49353d1969669507bee7ccbe4727) to install and register on Rayn.
 
+![image](https://github.com/patjlm/rayn-blog/assets/9153866/a826be3d-a9a1-4f06-a1e9-07387a863cdc)
+
 You can also have a look at the [latest news on Rayn here](news.md).
 
 * toc
