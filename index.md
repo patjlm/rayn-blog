@@ -22,7 +22,7 @@ Rayn has been founded a few years ago by a group of experts in finance, automate
 It aims at revolutionizing the banking system, focusing more on earnings than on spendings. For that it uses heavily the world or crypto, not only by offering some crypto trading capabilities, but also and mostly by leveraging the new technologies behind crypto (blockchain, protocols, AI - Artificial Intelligence, ...). It brings security, compliance, performance and ease of use to the user.
 
 # Compliance
-Rayn is partnering with [ModulR Finance](https://www.modulrfinance.com/) for its banking offer (IBAN, Debit cards). It gets its standard european banking license from this partership. This is what provides the standard banking 100K guarantee on the Euro account.
+Rayn is partnering with [ModulR Finance](https://www.modulrfinance.com/) for its banking offer (IBAN, Debit cards). It gets its standard electronic banking license from this partership, similarly to what Revolut does.
 
 Rayn is a registered finance company in Ireland, Italy and France ([PSAN](https://www.amf-france.org/fr/espace-professionnels/fintech/mes-relations-avec-lamf/obtenir-un-enregistrement-un-agrement-psan#Liste_des_PSAN_enregistrs_auprs_de_lAMF), under the name AUTOMATA FRANCE SAS).
 
