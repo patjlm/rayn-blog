@@ -9,6 +9,15 @@ Feel free to use my [referral link](https://rayn.money/app-referral/?referral=04
 
 ## December 2023
 
+### Term vault
+December 18th: launch of the Term Vault:
+* deposited money is locked for 1 year
+* 7% APR
+* 10% for Amabassadors until March 18th, 2024. Will be 9% after.
+* interests paid daily!
+
+According to the information in-app, the vault allocation is 60% on Mimo staking and 40% on mining.
+
 ### Mining vault at 18.3%
 🎉 Today on December, 8th, the mining vault interest rate bumped from 17.8% to 18.3%
 
