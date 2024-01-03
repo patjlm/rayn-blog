@@ -7,6 +7,60 @@ Feel free to use my [referral link](https://rayn.money/app-referral/?referral=04
 * toc
 {:toc}
 
+## January 2024
+
+### AMA - Restrospective 2023 (French)
+An AMA in French happened on the [Rayn X account](https://twitter.com/Rayn_app/status/1742598981622939771).
+
+Coming back on main topics of 2023, mainly:
+* Blockchain/mining vault
+* French PSAN
+* Deposit and withdraw Cryptos (USDT)
+* Term Vault
+
+Rayn had a turnover of 8M euros in 2023, targeting 25M euros in 2024. This is while many other companies failed due to very hard conditions with heavy bear market and crypto scandals.
+
+They are observing high increases on social media traffic since recent TV ads and presence on various media.
+
+2024 targets:
+- increase revenues
+  - increase marketing impact
+  - buy-back program on the token
+- increase adoption in europe
+  - prepare for MICA 2025
+  - FR/IT/EN marketing
+- fund raising of $50M (series A)
+  - 10M already promised
+  - 3M already agreed from MENA
+- increase token utility and review membership + ambassador status
+
+Strategy on the token
+- revamp the ambassador program to increase the token utility
+- buy back
+  - 10% of profit will be dedicated to buying back token. This will increase the buying pressure and thus thus the price
+  - financed also bya portion of the fund raising (being discussed)
+- New staking program
+- cashback in AKTIO
+  - limiting selling pressure by having those rewards staked
+  - staking financed by buy-back
+- new ambassador levels
+- work on the community
+- new listings after fund rasining, once the commnunity will be stronger and will be able to be efficient
+- there will be a rebranding of the token, but that's not major
+
+Product roadmap
+- investment and earning on crypto and classic
+- traditional stock market
+- blockchain vault. Initial 10M reached. Renegociated additional 5M.
+  - Rayn is now a very important stakeholder for its hosting partner
+  - Oman deployments with very high yield
+- real asset tokenisation
+  - vaults based real world asset: immo, ...
+- term vault
+- institutional level research/analysis on 
+
+55m 
+
 ## December 2023
 
 ### Term vault
