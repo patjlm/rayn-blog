@@ -70,6 +70,8 @@ Product roadmap
   - IA chat bot
   - internal chat for projects (ski trip, ...)
   - starting to think about copy trading
+ 
+There should be a new AMA in english soon, maybe January.
 
 ## December 2023
 
