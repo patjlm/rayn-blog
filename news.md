@@ -45,7 +45,7 @@ Strategy on the token
   - staking financed by buy-back
 - new ambassador levels
 - work on the community
-- new listings after fund rasining, once the commnunity will be stronger and will be able to be efficient
+- new listings after fund raising, once the commnunity will be stronger and will be able to be efficient
 - there will be a rebranding of the token, but that's not major
 
 Product roadmap
