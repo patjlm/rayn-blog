@@ -9,7 +9,7 @@ Feel free to use my [referral link](https://rayn.money/app-referral/?referral=04
 
 ## January 2024
 
-### AMA - Restrospective 2023 (French)
+### AMA - Restrospective 2023
 An AMA in French happened on the [Rayn X account](https://twitter.com/Rayn_app/status/1742598981622939771).
 
 Coming back on main topics of 2023, mainly:
@@ -55,11 +55,21 @@ Product roadmap
   - Rayn is now a very important stakeholder for its hosting partner
   - Oman deployments with very high yield
 - real asset tokenisation
-  - vaults based real world asset: immo, ...
+  - vaults based real world asset: real estate, ...
 - term vault
-- institutional level research/analysis on 
+- institutional level research/analysis on app
 
-55m 
+6 months view:
+- own decentralized protocol based on real world asset
+  - vaults on thematic (real estate, socially responsible finance product)
+  - IA to build fully custom vault solution, with a choice of themes, and "based on targets"
+- social features:
+  - send money to friends
+  - shared projects/vaults
+  - "cagnotte"
+  - IA chat bot
+  - internal chat for projects (ski trip, ...)
+  - starting to think about copy trading
 
 ## December 2023
 
