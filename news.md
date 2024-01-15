@@ -11,6 +11,7 @@ Feel free to use my [referral link](https://rayn.money/app-referral/?referral=04
 
 ### Video - AKTIO Tokenomics analysis
 
+Video following the last ICO devesting in January 2024: 
 https://www.youtube.com/watch?v=Qn0XPFuCF44
 
 ### AMA - Restrospective 2023
