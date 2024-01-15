@@ -9,6 +9,10 @@ Feel free to use my [referral link](https://rayn.money/app-referral/?referral=04
 
 ## January 2024
 
+### Video - AKTIO Tokenomics analysis
+
+https://www.youtube.com/watch?v=Qn0XPFuCF44
+
 ### AMA - Restrospective 2023
 An AMA in French happened on the [Rayn X account](https://twitter.com/Rayn_app/status/1742598981622939771).
 
