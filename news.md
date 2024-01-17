@@ -9,6 +9,13 @@ Feel free to use my [referral link](https://rayn.money/app-referral/?referral=04
 
 ## January 2024
 
+### Bonus Conditions Update
+
+From the Rayn main [telegram channel](https://web.telegram.org/a/#-1001467983224_82911):
+> Now, when you join Rayn, you just need to register, order a card, and make your first payment.
+> And boom! 🎉 You unlock an AKTIO bonus, ranging from €10 to €200.
+> This applies to both Welcome and Referral Bonus!
+
 ### Video - AKTIO Tokenomics analysis
 
 Video following the last ICO devesting in January 2024: 
