@@ -118,6 +118,8 @@ Rayn has a great referral program:
 * Both referree and referrer get some AKTIO (random between 10 and 200) during a succesful referral (at least 50 euros deposited on something)
 * A referrer gets 5% of the fees genererated by his/her affiliates (10% with the Ambassador status 🎉). These get added to a dedicated Flex vault automatically (so you earn interests on top!)
 
+The referree need to register, order a card, and make a first payment to activate the welcome and referral bonuses.
+
 # Crypto trading
 Rayn offers some basic trading capabilities (buy/sell) on 100+ crypto assets. They don't aim at being better than other big players in that area. Further enhancement ae in the pipe (amongst many other priorities), like limit orders, DCA.
 
