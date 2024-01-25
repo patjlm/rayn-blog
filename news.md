@@ -21,6 +21,8 @@ From the Rayn main [telegram channel](https://web.telegram.org/a/#-1001467983224
 Video following the last ICO devesting in January 2024: 
 https://www.youtube.com/watch?v=Qn0XPFuCF44
 
+[Here](tokenomics-2024-01.pdf) is the tokenomics doc that was presented.
+
 ### AMA - Restrospective 2023
 An AMA in French happened on the [Rayn X account](https://twitter.com/Rayn_app/status/1742598981622939771).
 
