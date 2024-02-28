@@ -30,10 +30,10 @@ Rayn is also getting prepared for the upcoming european MICA license as well as 
 
 # Neo-bank services
 Rayn offers pretty standard neo-bank services:
-* Very easy setup, everything is done via theire app you can download. You'll get a direct app store (IOS / Android) once you click on my [referral link](https://rayn.money/app-referral/?referral=043144a6a9a9310624951513b931b6d73e9a49353d1969669507bee7ccbe4727) 😉.
+* Very easy setup, everything is done via their app you can download. You'll get a direct app store (IOS / Android) once you click on my [referral link](https://rayn.money/app-referral/?referral=043144a6a9a9310624951513b931b6d73e9a49353d1969669507bee7ccbe4727) and fill in your phone number 😉.
 * You will be asked to fill a standard [KYC](https://en.wikipedia.org/wiki/Know_your_customer) (Know Your Customer), for compliance reasons. This is a good thing.
-* Once installed and registered, you immediately have access to a personal IBAN. This allows you to transfer money to and from your new account.
-* You can then select your membership, register as Ambassador, and start earning.
+* Once installed and registered, you immediately have access to a personal IBAN. This allows you to transfer money to and from your new account. You can also deposit using your credit card.
+* You can then select your membership, register as [Ambassador](#ambassador), and start earning.
 
 ## Visa card
 Rayn proposes different cards depending on your membership. They're all standard Visa **debit** card.
@@ -108,8 +108,10 @@ In a nutshell
 * These rewards are instantly converted into PAR (Euro stable coin) and distributed to users. Rayn keeps a portion of it for themselves.
 
 Note:
-* The pool is limited. At one point, it will not be possible to deposit in mining anymore, or not at the same conditions (more expensive  machines, electricity, mining costs, rewards, ..)
+* deposited money is locked for 2 years
 * The interest rate is variable. During an AMA, they mentioned that if BTC (BitCoin) drops below 10K (which would be very very surprising), we'd still get about 10% reward for Ambassadors. The interest can also raise to more than we have today with the price of BTC raising up. We had some spikes above 20%.
+* interests paid daily!
+* The pool is limited. At one point, it may not be possible to deposit in mining anymore, or not at the same conditions (more expensive  machines, electricity, mining costs, rewards, ..)
 
 Currently, Mining vaults have been providing stable 12% to non-ambassadors, and almost 17% to ambassadors. Interests changes I captured:
 
