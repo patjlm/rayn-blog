@@ -97,8 +97,8 @@ On December 18th, 2023 Rayn launched the Term Vault:
 
 According to the information in-app, the vault allocation is 60% on Mimo staking and 40% on mining.
 
-## Mining vault
-Begining of 2023, Rayn launched the [Mining vault](https://rayn.money/mining-vault/). They initially had a pool of 10M USD (or Euros?) allocated to this and added twice 2M since then
+## Blockchain (aka Mining) vault
+Begining of 2023, Rayn launched the [Blockchain vault](https://rayn.money/mining-vault/) (initially called mining vault). They initially had a pool of 10M USD (or Euros?) allocated to this and added twice 2M since then
 
 In a nutshell
 * they buy machines - they got very good prices during the bear market (most cryptos going down..)
@@ -181,13 +181,14 @@ On top of that, you may get additional benefit by [staking](#aktio-staking) 1000
 
 Benefits (as of November 12th, 2023):
 
-| | Non-Ambassador | Ambassador |
-| :--- | :---: | :---: |
-| Cloud Mining Vault Interest rate (APR) | 12% | 17% |
-| Flex Vault Interest rate (APY) | 5% | 6.5% |
-| Affiliate revenues | 5% | 10% |
-| Crypto trading fees | | -30% |
-| World membership | 150€ | 105€ |
+| | Non-Ambassador | Ambassador | Interests payout |
+| :--- | :---: | :---: | :--- |
+| Flex Vault Interest rate (APY) | 5% | 6.5% | Daily |
+| Term Vault Interest rate (APR) | 7% | 10% until march 2024, 9% after | Daily |
+| Cloud Mining Vault Interest rate (APR) | 12% | 18.6% as of February 2024 | Daily |
+| Affiliate revenues | 5% | 10% | Daily |
+| Crypto trading fees | | -30% | |
+| World membership | 150€ | 105€ | |
 
 If you want to be World and Ambassador
 - first stake your first 1000 AKTIO. Those will get 5% interest 
