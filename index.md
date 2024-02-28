@@ -112,6 +112,7 @@ Note:
 * The interest rate is variable. During an AMA, they mentioned that if BTC (BitCoin) drops below 10K (which would be very very surprising), we'd still get about 10% reward for Ambassadors. The interest can also raise to more than we have today with the price of BTC raising up. We had some spikes above 20%.
 
 Currently, Mining vaults have been providing stable 12% to non-ambassadors, and almost 17% to ambassadors. Interests changes I captured:
+
 | Date | new rate (amabassador) |
 | :--- | :---: |
 | November, 11th 2023 | 17.8% |
