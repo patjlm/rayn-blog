@@ -109,9 +109,14 @@ In a nutshell
 
 Note:
 * The pool is limited. At one point, it will not be possible to deposit in mining anymore, or not at the same conditions (more expensive  machines, electricity, mining costs, rewards, ..)
-* The interest rate is variable. During an AMA, they mentioned that if BTC (BitCoin) drops below 10K (which would be very very surprising), we'd still get about 10% reward for Ambassadors. The interest can also raise to more than we have today with the price of BTC raising up
+* The interest rate is variable. During an AMA, they mentioned that if BTC (BitCoin) drops below 10K (which would be very very surprising), we'd still get about 10% reward for Ambassadors. The interest can also raise to more than we have today with the price of BTC raising up. We had some spikes above 20%.
 
-Currently, Mining vaults have been providing stable 12% to non-ambassadors, and almost 17% to ambassadors. Very recently (November, 11th 2023), we started getting 17.79% with the raise of BTC 🎉.
+Currently, Mining vaults have been providing stable 12% to non-ambassadors, and almost 17% to ambassadors. Interests changes I captured:
+| Date | new rate (amabassador) |
+| :--- | :---: |
+| November, 11th 2023 | 17.8% |
+| December, 8th 2023 | 18.3% |
+| February, 20th 2024 | 18.6% |
 
 ## Affiliates vault
 Rayn has a great referral program:
@@ -185,7 +190,7 @@ Benefits (as of November 12th, 2023):
 | :--- | :---: | :---: | :--- |
 | Flex Vault Interest rate (APY) | 5% | 6.5% | Daily |
 | Term Vault Interest rate (APR) | 7% | 10% until march 2024, 9% after | Daily |
-| Cloud Mining Vault Interest rate (APR) | 12% | 18.6% as of February 2024 | Daily |
+| Cloud Mining Vault Interest rate (APR) | 12% | 18.6% as of February 2024 (variable) | Daily |
 | Affiliate revenues | 5% | 10% | Daily |
 | Crypto trading fees | | -30% | |
 | World membership | 150€ | 105€ | |
