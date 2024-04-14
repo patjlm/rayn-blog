@@ -33,7 +33,7 @@ Rayn's token `AKTIO` is now listed on 3 new big exchanges, allowing more investo
 * [XT.com](https://www.xt.com)
 * [Digifinex](https://www.digifinex.com)
 
-On this occasion, [Gael Itier](https://www.linkedin.com/in/gaelitier/), CEO and Founder, and [Jean-Yves Guillou](https://www.linkedin.com/in/jean-yves-guillou-12b58a19/), Director Europe and co-founder, held a live (in french): https://www.youtube.com/watch?v=1RHvuyxmr1U
+On this occasion, [Gael Itier](https://www.linkedin.com/in/gaelitier/), CEO and Founder, and [Jean-Yves Guillou](https://www.linkedin.com/in/jean-yves-guillou-12b58a19/), Director Europe and co-founder, held a [live](https://www.youtube.com/watch?v=1RHvuyxmr1U) (in french).
 
 ## March 2024
 
