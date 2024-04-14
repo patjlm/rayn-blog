@@ -9,6 +9,15 @@ Feel free to use my [referral link](https://rayn.money/app-referral/?referral=04
 
 ## April 2024
 
+### Staking program extended
+
+The current `AKTIO` staking program is extended (for the nth time) to July 13th 2024
+* 5% for Freedom members
+* 15% for World members
+* 20% for Elite members
+
+Staking 1000 `AKTIO` currently allows to become ambassador, which allows to reduce fees and World membership costs. Ultimately, `AKTIO` is meant to provide much more utility.
+
 ### MiCA: towards USDC
 
 USDC will be used as the main central token in Rayn. This goes in the direction of being fully [MiCA](https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica) (`Markets in Crypto-Assets` european regulation) compliant, as there are doubts around USDT in that aspect.
@@ -23,6 +32,8 @@ Rayn's token `AKTIO` is now listed on 3 new big exchanges, allowing more investo
 * [Ascendex](https://ascendex.com)
 * [XT.com](https://www.xt.com)
 * [Digifinex](https://www.digifinex.com)
+
+On this occasion, [Gael Itier](https://www.linkedin.com/in/gaelitier/), CEO and Founder, and [Jean-Yves Guillou](https://www.linkedin.com/in/jean-yves-guillou-12b58a19/), Director Europe and co-founder, held a live (in french): https://www.youtube.com/watch?v=1RHvuyxmr1U
 
 ## March 2024
 
