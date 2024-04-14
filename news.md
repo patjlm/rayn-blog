@@ -7,6 +7,19 @@ Feel free to use my [referral link](https://rayn.money/app-referral/?referral=04
 * toc
 {:toc}
 
+## April 2024
+
+Rayn's token `AKTIO` is now listed on 3 new, big exchanges, allowing more investors to participate in its growth
+* [Ascendex](https://ascendex.com)
+* [XT.com](https://www.xt.com)
+* [Digifinex](https://www.digifinex.com)
+
+## Marh 2024
+
+# No fees on BTC during April
+
+Rayn will not apply any fees on BTC trading during April 2024!
+
 ## January 2024
 
 ### Bonus Conditions Update
