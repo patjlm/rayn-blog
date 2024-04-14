@@ -9,14 +9,22 @@ Feel free to use my [referral link](https://rayn.money/app-referral/?referral=04
 
 ## April 2024
 
-Rayn's token `AKTIO` is now listed on 3 new, big exchanges, allowing more investors to participate in its growth
+### Towards USDC
+
+USDC will be used as the main central token in Rayn. This goes in the direction of being fully [MiCA](https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica) (`Markets in Crypto-Assets` european regulation) compliant, as there are doubts around USDT in that aspect.
+
+Rayn confirms here its intention to adhere strictly to european regulations. It aims at being one of the first MiCA compliant institution, which will open the whole europen market and increase trust from newcomers into the project.
+
+### New listings
+
+Rayn's token `AKTIO` is now listed on 3 new big exchanges, allowing more investors to participate in its growth
 * [Ascendex](https://ascendex.com)
 * [XT.com](https://www.xt.com)
 * [Digifinex](https://www.digifinex.com)
 
-## Marh 2024
+## March 2024
 
-# No fees on BTC during April
+### No fees on BTC during April
 
 Rayn will not apply any fees on BTC trading during April 2024!
 
