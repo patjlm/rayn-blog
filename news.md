@@ -9,11 +9,13 @@ Feel free to use my [referral link](https://rayn.money/app-referral/?referral=04
 
 ## April 2024
 
-### Towards USDC
+### MiCA: towards USDC
 
 USDC will be used as the main central token in Rayn. This goes in the direction of being fully [MiCA](https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica) (`Markets in Crypto-Assets` european regulation) compliant, as there are doubts around USDT in that aspect.
 
 Rayn confirms here its intention to adhere strictly to european regulations. It aims at being one of the first MiCA compliant institution, which will open the whole europen market and increase trust from newcomers into the project.
+
+[Benjamin Messika](https://www.linkedin.com/in/benjamin-messika/), Head of Legal & Compliance, ran a live around the upcoming regulation changes (in french): [MiCA demystifie](https://www.youtube.com/watch?v=wlD0slyU6nk).
 
 ### New listings
 
