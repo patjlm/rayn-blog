@@ -10,9 +10,47 @@ Feel free to use my [referral link](https://rayn.money/app-referral/?referral=04
 ## April 2024
 
 ### New listing: Biconomy
+
 > AKTIO is listed on Biconomy exchange, offering users a seamless trading experience.
 
 https://twitter.com/BiconomyCom/status/1782651322912608651?t=kle8ZcooJEqZ6SdSYns42Q&s=19
+
+### Impact of halving on the blochain vault
+
+Rayn answered about the impact of the halving on the Blockchain/ Mining vault:
+
+> No impact at rayn for now scheduled even after halving
+> 
+> Because we got miner machine at gross price during bear market + hosting and electricity at he best price because we pool with top 10 miner in the world + our machine are mixed between air cooling and hydro so not possible for us to be impacted by the halving only our Marge will be reduce but not the rate on vault.
+> 
+> Only if btc drop below 48k I could have slight impact (and below 33k but in any case it will stay above 12-% )
+> 
+> So you can sleep well we manage :)
+
+also:
+
+Cloud Mining = BTC mining production
+
+to mine BTC you need
+
+1/ Machine
+2/ DATA CENTER (Hoster)
+3/ Electricity
+4/ pool of miner
+
+1/2/3/4/ have a respective cost 
+
+BTC Production then is impacted by
+
+5/ Reward per block ( every time the pool complete a block you get X BTC) => Te halving will reduce the reward by block by 2
+6/ Difficulty of mining
+7/ Transaction revenue (Ordinal + non ordinal)
+
+ROI (Return on investment) = Yield you earn (RAYN)
+
+You need to do an equation including 1/2/3/4/5/6/7 and adding 8/ Price of the bitcoin to get the Return on invesment rate
+
+So the only Hlaving (5) i snot enough to make simple conclusion on the yiled that Blcokchain vault is providing , we have enough to absorb the halving by doing less marge and keep high rate 🚁
 
 ### Staking program extended
 
