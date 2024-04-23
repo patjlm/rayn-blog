@@ -9,6 +9,11 @@ Feel free to use my [referral link](https://rayn.money/app-referral/?referral=04
 
 ## April 2024
 
+### New listing: Biconomy
+> AKTIO is listed on Biconomy exchange, offering users a seamless trading experience.
+
+https://twitter.com/BiconomyCom/status/1782651322912608651?t=kle8ZcooJEqZ6SdSYns42Q&s=19
+
 ### Staking program extended
 
 The current `AKTIO` staking program is extended (for the nth time) to July 13th 2024
