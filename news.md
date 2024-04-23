@@ -15,6 +15,22 @@ Feel free to use my [referral link](https://rayn.money/app-referral/?referral=04
 
 https://twitter.com/BiconomyCom/status/1782651322912608651?t=kle8ZcooJEqZ6SdSYns42Q&s=19
 
+### big backend upgrade
+
+From the team on telegram:
+
+Congratulations again to the RAYN team on this delivery!
+
+For users, the impact isn't significant as it's primarily an overhaul of the app's wallet/vault management engine. However, it's the key release that will enable us to develop Rayn's safes and new products for the future.
+
+Thanks to this delivery, we'll be able to build new safes based on the new RWA protocol that's coming soon, see more customisation on the safes and start building launchpad products in the coming months.
+
+More than 4 months of work on this upgrade, well done!
+
+And the TIER2 listings season continues! We're going to be going full steam ahead until we reach TIER1 - Everything's going smoothly, just a little longer than expected with the USDT => USDC changeover, but we'll be listed with AKTIO at the end of the course with a daily trading volume of over 2,000,000 USDC Daily... we're clearly going to change gear!
+
+Hang on! and keep your Aktios warm!
+
 ### Impact of halving on the blochain vault
 
 Rayn answered about the impact of the halving on the Blockchain/ Mining vault:
