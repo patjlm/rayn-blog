@@ -9,6 +9,22 @@ Feel free to use my [referral link](https://rayn.money/app-referral/?referral=04
 
 ## April 2024
 
+### French Tech Scale Up Excellence program
+
+Rayn places innovation at the heart of its ambitions. That's why we're extremely proud to announce that we are winners of the La French Tech Scale Up Excellence program.
+
+Many thanks to La French Tech for providing us this exclusive opportunity, where only 50 startups are selected. 🔄💼
+
+This is a chance for us to advance our ambition to rethink savings for everyone.
+
+Rayn is the app that is radically transforming the world of savings by skillfully blending the reliability of traditional finance with the disruptive innovation of AI and blockchain.
+
+The Scale Up Excellence program gives us access to a global network of experts and investors. This opportunity will enable us to accelerate our growth and expand our innovative vision, revolutionizing market standards. 💡💰
+
+We would like to extend our gratitude to French Tech Côte d'Azur, and specifically to Farouk Raïs and Clara Chappaz.
+
+Congratulations also to all the other winners!
+
 ### Listing on XeggeX
 
 We're proud to announce that our token, AKTIO, is now listed on XeggeX! 🔥
