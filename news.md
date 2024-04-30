@@ -9,6 +9,26 @@ Feel free to use my [referral link](https://rayn.money/app-referral/?referral=04
 
 ## April 2024
 
+### USDC
+
+From Telegram:
+
+We would like to inform you that our native token AKTIO has new USDC and BTC pairs on multiple exchanges.
+As you know, we at Rayn are dedicated to swiftly complying with the upcoming MiCA regulations to ensure we're fully prepared for their launch on June 30, 2024.
+
+Please take note of the following updates to our AKTIO token trading pairs:
+
+-On XT.com, the AKTIO/USDT pair will be delisted on May 3. The AKTIO/USDC pair will then become the only option available.
+-On Ascendex, we will introduce a new AKTIO/BTC pair, replacing the AKTIO/USDT pair starting May 3.
+-On Digifinex, the AKTIO/USDT pair will be delisted on May 3 and replaced by the AKTIO/USDC pair.
+-On Bitmart, the AKTIO/USDT pair will be delisted on May 10 to make way for the AKTIO/USDC pair.
+
+These changes are not just to meet regulatory demands but also to enhance your trading experience.
+
+To learn more about AKTIO and its token economics, visit our website here https://www.rayn.finance/fr/token-economics/.
+
+Once again, thank you for your continued support.
+
 ### New listing: Biconomy
 
 > AKTIO is listed on Biconomy exchange, offering users a seamless trading experience.
