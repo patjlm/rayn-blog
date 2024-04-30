@@ -9,6 +9,20 @@ Feel free to use my [referral link](https://rayn.money/app-referral/?referral=04
 
 ## April 2024
 
+### Listing on XeggeX
+
+We're proud to announce that our token, AKTIO, is now listed on XeggeX! 🔥
+
+XeggeX is a cryptocurrency exchange known for specializing in cryptocurrencies with low to medium market capitalizations. They are well-regarded for their very fast transactions and low transaction fees, and have also gained a solid reputation as a preferred exchange among the mining community. ⛏
+
+This new AKTIO/USDC pairing is just the beginning. We will continue to expand the accessibility of AKTIO through strategic initiatives, providing our community with enhanced flexibility and convenience in trading our native token.
+
+Thank you for your trust and support! 🙏
+
+To trade on XeggeX 👇
+
+https://xeggex.com/market/AKTIO_USDC
+
 ### USDC
 
 From Telegram:
