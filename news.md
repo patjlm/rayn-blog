@@ -7,6 +7,14 @@ Feel free to use my [referral link](https://rayn.money/app-referral/?referral=04
 * toc
 {:toc}
 
+## May 2024
+
+🌟 Monday, May 6 is a big day!
+
+@WhiteBit exchange will be listing AKTIO, opening up new opportunities for traders worldwide. 😎
+
+Stay tuned for the official announcement and get ready to trade AKTIO on one of the top exchanges in Europe! 🙏
+
 ## April 2024
 
 ### French Tech Scale Up Excellence program
