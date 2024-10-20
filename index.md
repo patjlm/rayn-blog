@@ -26,7 +26,7 @@ Rayn is partnering with [ModulR Finance](https://www.modulrfinance.com/) for its
 
 Rayn is a registered finance company in Ireland, Italy and France ([PSAN](https://www.amf-france.org/fr/espace-professionnels/fintech/mes-relations-avec-lamf/obtenir-un-enregistrement-un-agrement-psan#Liste_des_PSAN_enregistrs_auprs_de_lAMF), under the name AUTOMATA FRANCE SAS).
 
-Rayn is also getting prepared for the upcoming european MICA license as well as a license coming up in the Emirates
+Rayn is also prepared and applying for the upcoming european [MiCA](https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica) license as well as a license coming up in the Emirates (VARA)
 
 # Neo-bank services
 Rayn offers pretty standard neo-bank services:
