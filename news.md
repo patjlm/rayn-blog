@@ -21,7 +21,7 @@ The AKTIO staking interests lowers a bit. For ambassadors, it goes from 15% o 10
 
 ### Compliancy
 
-Rayn is already registered in PSAN. It is now applying for PSAN agreement. As of today, only Société Générale has this agreement. Obtaining this agreement would help in fasg tracking the european MiCA compliancy which is being put in place and should soon be mandatory.
+Rayn is already registered in PSAN. It is now applying for PSAN agreement. As of today, only Société Générale has this agreement. Obtaining this agreement would help in fast tracking the european MiCA compliancy which is being put in place and should soon be mandatory.
 
 ## May 2024
 
