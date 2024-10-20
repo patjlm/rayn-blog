@@ -7,6 +7,22 @@ Feel free to use my [referral link](https://rayn.money/app-referral/?referral=04
 * toc
 {:toc}
 
+## October 2024
+
+### Vancelian
+
+Rayn is being renamed Vancelian! This has been announced during a celebration in Grasse on October 19th with a limited panel of randomly selected Rayners. The official announcement on social networks is done on October 21st.
+
+## July 2024
+
+### AKTIO staking
+
+The AKTIO staking interests lowers a bit. For ambassadors, it goes from 15% o 10%. This is preparing for a change where 1000 AKTIO staking and the ambassador programis is not the only utility for this token. The system should evolve more towards a more leveled membership, as for airlines miles systems. Wait and see.
+
+### Compliancy
+
+Rayn is already registered in PSAN. It is now applying for PSAN agreement. As of today, only Société Générale has this agreement. Obtaining this agreement would help in fasg tracking the european MiCA compliancy which is being put in place and should soon be mandatory.
+
 ## May 2024
 
 🌟 Monday, May 6 is a big day!
