@@ -151,7 +151,7 @@ Rayn has a staking program for AKTIO: we can lock some AKTIO for 1 year and get 
 
 | Freedom | World | Elite |
 | :---:   | :---: | :---: |
-| 5%      | 15%   | 20%   |
+| 3%      | 10%   | 15%   |
 
 Staking 1000 AKTIO allows you to reach the ambassador status, which mainly lowers fees or increases revenues. See the [ambassador page](https://rayn.finance/ambassador/) for details.
 
