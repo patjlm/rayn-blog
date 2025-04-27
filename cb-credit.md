@@ -1,4 +1,4 @@
-copié depuis telegram
+icopié depuis telegram
 
 Toujours d'actualité paiement via carte bancaire = ligne de crédit = pas de taxe sur un crédit ???
 
@@ -7,6 +7,7 @@ C'est le côté le plus compliqué à expliquer aux gens pour qu'ils se déciden
 ---
 
 François:
+
 Oui l'explication d'il y a 2 ans est toujours valable.
 La fonction paiement crypto déclenche toujours 2 mecanismes:
 
@@ -133,3 +134,17 @@ Attention : zone grise possible en cas de changement de la loi ou de jurispruden
 
 Veux-tu aussi que je te prépare une version encore plus condensée pour envoyer en message court (genre WhatsApp) si besoin ?
 Veux-tu également que je te fournisse les extraits précis des textes pour pouvoir les citer dans ton message si besoin ?
+
+---
+
+Et pour prendre un cas encore plus précis, même si on prend la chose sous l'angle de l'acquisition de biens ou services (et pas uniquement fiat)
+
+ La liquidation d'un collatéral n'est juridiquement pas assimilable à une cession volontaire d'actif.
+
+C'est à dire que que quand on utilise la carte avec fonction paiement crypto:
+
+- pour retirer des euros au distributeur 
+- pour acheter une voiture
+- pour se payer un massage 
+
+Aucune de ces transaction n'est juridiquement une cession volontaire d'actif, on bénéficie juste d'un prêt en euros. Donc pas de flat tax.
