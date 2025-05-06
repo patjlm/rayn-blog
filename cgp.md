@@ -6,6 +6,7 @@ Ce n'est pas un publicite, seulement une liste sans aucun ordre specifique.
 |---------------------|-------------------|--------------|
 | ✔️ | [Prosper Conseil](https://prosper-conseil.fr/) | [Avenue des Investisseurs](https://avenuedesinvestisseurs.fr/) |
 | ❓ | [S'investir  Conseil](https://sinvestir.fr/sinvestir-conseil/)
+| | Alpha K | |
 | ❓ | Thibault GOULLIOUD | |
 | ❓ | Nathan Peyrounette | |
 | ❓ | Alban Lemoine | |
