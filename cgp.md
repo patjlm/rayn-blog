@@ -12,8 +12,9 @@ Ce n'est pas un publicite, seulement une liste sans aucun ordre specifique.
 | ❓ | Nathan Peyrounette | |
 | ❓ | Alban Lemoine | |
 | ❓ | Camil Mikolajczack | "Modele hybride avec honoraires et commissions pour les solutions n’existant pas en clean Share (SCPI et certains fonds de Private Equity)". "Près de 50% de mon CA provient d’honoraires et quand je perçois des commissions je les expose de manière transparente et je donne tous les moyens au client permettant d’établir que le conseil n’a pas été biaisé jusqu’à lui montrer les taux de commissionnement d’autres solutions comparables." |
-| 🚫 | Florianbzh29 sur Finary | "En application de la directive MIFID 2, je ne suis pas indépendant, juste parce que j’ai 2 clients qui ont pris une assurance vie avec un partenaire." |
 | ❓ | Nathan Marashi | "Je suis moi-même entrain de m’installer en qualité de CGP-CIF strictement indépendant conformément à la directive MIFID II" |
+| 🚫 | Florianbzh29 sur Finary | "En application de la directive MIFID 2, je ne suis pas indépendant, juste parce que j’ai 2 clients qui ont pris une assurance vie avec un partenaire." |
+| 🚫 | [L&A Finance](https://www.la-finance.fr/gestion-de-patrimoine/) | 
 
 Source:
 * https://community.finary.com/t/liste-des-cgp-independant-mifid-ii/19929
